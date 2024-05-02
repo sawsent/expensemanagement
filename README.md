@@ -41,6 +41,10 @@ This project serves as a learning platform for integrating Vue.js, Java, and var
 
 ## Future things I want to explore:
 
+<p>
+  <a href="#"><img src="https://skillicons.dev/icons?i=py,flask,openai"></a> <br>
+</p>
+
 ### **AI Integration with Python**:
 - **Python/Flask**: Supports AI functionalities, particularly for analyzing financial data to derive insights, as part of exploring AI's potential in web applications.
 - Integrate natural language processing for categorizing expenses based on user input.
